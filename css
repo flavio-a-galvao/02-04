@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+.header{
+    background-color: #333;
+    .header-logo{
+        img{
+            height: 50px;
+        }
+    }
+    .header-menu{
+        float: right;
+        border: 1px solid white;
+        padding: 10px;
+        margin: 10px;
+        color: white;
+    }
+}
